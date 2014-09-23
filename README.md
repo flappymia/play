@@ -1,0 +1,4 @@
+play
+====
+
+Play the game
